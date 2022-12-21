@@ -92,7 +92,7 @@
         opacity: 1;
     }
 }
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     .container
     {
         max-height: 100%;
